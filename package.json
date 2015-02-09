@@ -1,0 +1,18 @@
+{
+    "name": "yahoo-exchange-rates",
+    "version": "0.0.1",
+    "description":"A node module for fetching exchange rates from yahoo",
+    "dependencies" :{
+        "supertest": "0.11.x"
+    },
+    "devDependencies":{
+        "should": "3.3.x"
+    },
+    "keywords":[
+        "exchange rates",
+        "currencies",
+        "yahoo"
+    ],
+    "author":"amertis",
+    "license":"MIT"
+}
